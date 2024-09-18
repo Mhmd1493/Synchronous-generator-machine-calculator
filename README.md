@@ -1,1 +1,0 @@
-# Induction-machine-calculator
